@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LetsGrowMoreInternship/static/css/main.6edabdd8.chunk.css",
+    "main.js": "/LetsGrowMoreInternship/static/js/main.5bf42a06.chunk.js",
+    "main.js.map": "/LetsGrowMoreInternship/static/js/main.5bf42a06.chunk.js.map",
+    "runtime-main.js": "/LetsGrowMoreInternship/static/js/runtime-main.81a38476.js",
+    "runtime-main.js.map": "/LetsGrowMoreInternship/static/js/runtime-main.81a38476.js.map",
+    "static/js/2.b43796ef.chunk.js": "/LetsGrowMoreInternship/static/js/2.b43796ef.chunk.js",
+    "static/js/2.b43796ef.chunk.js.map": "/LetsGrowMoreInternship/static/js/2.b43796ef.chunk.js.map",
+    "static/js/3.8f69732a.chunk.js": "/LetsGrowMoreInternship/static/js/3.8f69732a.chunk.js",
+    "static/js/3.8f69732a.chunk.js.map": "/LetsGrowMoreInternship/static/js/3.8f69732a.chunk.js.map",
+    "index.html": "/LetsGrowMoreInternship/index.html",
+    "static/css/main.6edabdd8.chunk.css.map": "/LetsGrowMoreInternship/static/css/main.6edabdd8.chunk.css.map",
+    "static/js/2.b43796ef.chunk.js.LICENSE.txt": "/LetsGrowMoreInternship/static/js/2.b43796ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LetsGrowMoreInternship/static/media/cardbackground.f8fd202b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a38476.js",
+    "static/js/2.b43796ef.chunk.js",
+    "static/css/main.6edabdd8.chunk.css",
+    "static/js/main.5bf42a06.chunk.js"
+  ]
+}

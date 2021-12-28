@@ -1,0 +1,83 @@
+nav {
+  height: 15vh;
+  width: 100%;
+  background-image: linear-gradient(to right, #ed9fe6, #a9f5ed);
+  border: 1px solid rgb(0, 0, 0);
+  color: #000;
+  /* margin-bottom: 20px; */
+}
+.navitems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navitems h2 {
+  font-size: 30px;
+}
+
+.navitems button {
+  width: 20%;
+  height: 8vh;
+  border: 2px solid transparent;
+  border-radius: 30px;
+  background-color: #ff5efa;
+  border-color: rgb(255, 0, 204);
+  font-family: serif;
+  font-size: 20px;
+  margin: auto 0px;
+  position: absolute;
+  right: 40px;
+}
+
+.fetchbtn:hover {
+  background-color: #fff;
+}
+.userdatacontainer {
+  width: 100%;
+  height: fit-content;
+  /* background-image: linear-gradient(to top left, #81f7ff, #ff8de8); */
+  background-image: url(./background2.png);
+  background-size: cover;
+}
+#main {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+  /* padding-top: 10vh; */
+}
+.name:hover {
+  color: red;
+}
+
+.avatar {
+  border-radius: 30%;
+}
+
+.profile_cont {
+  border-radius: 15%;
+  background-image: url(./cardbackground.png);
+  margin: 5px;
+  padding: 10px;
+  width: 30%;
+  text-align: center;
+  transition: transform ease 0.2s;
+  opacity: 0.9;
+  margin-top: 8vh;
+}
+
+.profile_cont:hover {
+  transform: scale(1.2);
+  opacity: 1;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-image: linear-gradient(to right, #ed6fe2, #87fff3);
+  border: 1px solid rgb(0, 0, 0);
+}
